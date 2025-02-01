@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775463511330",
+    "project_id": "rescuesync-1e782",
+    "storage_bucket": "rescuesync-1e782.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775463511330:android:79d8316108f3af4e36717b",
+        "android_client_info": {
+          "package_name": "com.example.rescuesync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCijQTTFi3Wdu0GKYITiiE9KIpi_VDvQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

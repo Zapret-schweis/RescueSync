@@ -6,11 +6,14 @@ RescueSync is an SOS application that allows users to quickly connect and coordi
 RescueSync is built with Flutter/Dart for the frontend and PHP for the backend, leveraging a MySQL database for data storage. Currently, the app is designed to work on Android devices only.
 
 <!-- Insert application images/screenshots here -->
-![Screenshot_1738499556](https://github.com/user-attachments/assets/d7dfc207-01b1-46d4-a0bf-3516400135a1)
-![Screenshot_1738499561](https://github.com/user-attachments/assets/7fca7cea-5abf-462c-8992-f5b41e2dfc34)
-![Screenshot_1738499564](https://github.com/user-attachments/assets/47a32429-2a52-4348-9c49-d9a9ee41ffcd)
-![Screenshot_1738499577](https://github.com/user-attachments/assets/aedde814-977b-4ab0-822d-5df8f3657b88)
-![Screenshot_1738499584](https://github.com/user-attachments/assets/4b1e7448-f614-4702-999c-43f9007eb7a5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7dfc207-01b1-46d4-a0bf-3516400135a1" width="150" style="margin: 0 5px;" />
+  <img src="https://github.com/user-attachments/assets/7fca7cea-5abf-462c-8992-f5b41e2dfc34" width="150" style="margin: 0 5px;" />
+  <img src="https://github.com/user-attachments/assets/47a32429-2a52-4348-9c49-d9a9ee41ffcd" width="150" style="margin: 0 5px;" />
+  <img src="https://github.com/user-attachments/assets/aedde814-977b-4ab0-822d-5df8f3657b88" width="150" style="margin: 0 5px;" />
+  <img src="https://github.com/user-attachments/assets/4b1e7448-f614-4702-999c-43f9007eb7a5" width="150" style="margin: 0 5px;" />
+</p>
+
 
 
 ---

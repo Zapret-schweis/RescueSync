@@ -45,9 +45,9 @@ class UserController extends GetxController {
     } else if (changedNewRoom == 'An error occurred.') {
       changedRoom.value = 'Sunucu kaynaklı bir hata oluştu, üzgünüm.';
     } else if (changedNewRoom ==
-            'Exception: ClientException with SocketException: Connection timed out (OS Error: Connection timed out, errno = 110), address = 185.254.28.25, port = 35506, uri=http://185.254.28.25/rescuesync/process' ||
+            'Exception: ClientException with SocketException: Connection timed out (OS Error: Connection timed out, errno = 110), address = null, port = 35506, uri=http://null/rescuesync/process' ||
         changedNewRoom ==
-            ' Exception: ClientException with SocketException: Connection timed out (OS Error: Connection timed out, errno = 110), address = 185.254.28.25, port = 35506, uri=http://185.254.28.25/rescuesync/process') {
+            ' Exception: ClientException with SocketException: Connection timed out (OS Error: Connection timed out, errno = 110), address = null, port = 35506, uri=http://null/rescuesync/process') {
       changedRoom.value = 'Lütfen internet bağlantınızı kontrol ediniz';
     } else {
       changedRoom.value = changedNewRoom; // Gelen hatayı aktar

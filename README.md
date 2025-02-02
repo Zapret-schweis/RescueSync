@@ -143,6 +143,10 @@ The main developer of this project is Marijua and the sole supporter is Nativez.
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
 
+## Topcics
+
+`flutter` `dart` `php` `mysql` `firebase` `sos` `emergency` `mobile-app` `android` `room-management` `invite-codes` `beta`
+
 ---
 
 *For any further questions or support, please open an issue in the repository.*

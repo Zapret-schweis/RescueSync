@@ -131,7 +131,7 @@ We welcome contributions to RescueSync. If you would like to help improve the pr
 4. Push to the branch (e.g., ```git push origin feature/YourFeature```).
 5. Open a pull request detailing your changes.
 
-### Example Contributor
+### Contributor
 
 - **Nativez** - *Has Server*
 
